@@ -1,0 +1,30 @@
+{
+  "name": "dmd-clear",
+  "version": "0.1.0",
+  "description": "plugin for jsdoc-to-markdown for clearer output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtlapp/dmd-clear.git"
+  },
+  "keywords": [
+    "jsdoc-to-markdown",
+    "dmd",
+    "plugin",
+    "jsdoc",
+    "markdown"
+  ],
+  "author": {
+    "name": "Joe Lapp",
+    "email": "arachnojoe@gmail.com",
+    "url": "http://josephtlapp.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtlapp/dmd-clear/issues"
+  },
+  "homepage": "https://github.com/jtlapp/dmd-clear#readme"
+}

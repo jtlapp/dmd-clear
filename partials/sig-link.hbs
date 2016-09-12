@@ -3,7 +3,7 @@
 {{{@depOpen}~}}
 [{{{@codeOpen}~}}
 {{#if @prefix}}{{@prefix}} {{/if~}}
-{{@accessSymbol}}{{#if (isEvent)}}"{{{name}}}"{{else}}**{{{name}}}**{{/if~}}
+{{@accessSymbol}}{{#if (isEvent)}}"{{{name}}}"{{else}}{{{name}}}{{/if~}}
 {{~#if @methodSign}}{{#if (isEvent)}} {{@methodSign}}{{else}}{{@methodSign}}{{/if}}{{/if~}}
 {{{@codeClose}}}](#{{{anchorName}}})
 {{#if @suffix}} {{@suffix}}{{/if~}}

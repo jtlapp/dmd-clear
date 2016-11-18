@@ -12,5 +12,5 @@ I began this plugin before discovering [`dmd-clean`](https://github.com/Rantanen
 
 ```
 npm install dmd-clear --save-dev
-jsdoc2md --plugin dmd-clean
+jsdoc2md --plugin dmd-clear
 ```
